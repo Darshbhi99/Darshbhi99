@@ -4,9 +4,14 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Darshbhi99/Darshbhi99.git) 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/darshan-bhiwapurkar-048a86124)
-
+<div id="badges">
+  <a href="www.linkedin.com/in/darshan-bhiwapurkar-048a86124">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Darshbhi99/Darshbhi99.git">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  
 ## 🚀 About Me
 
 <div align="center">
