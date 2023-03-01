@@ -11,6 +11,7 @@
   <a href="www.github.com/Darshbhi99">
     <img src="https://komarev.com/ghpvc/?username=Darshbhi99&style=flat-square&color=blue" alt=""/>
   </a>
+ </div>
   
 ## 🚀 About Me
 
