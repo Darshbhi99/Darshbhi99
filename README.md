@@ -28,6 +28,10 @@ I'm a Full Stack Data Scientist...
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Darshbhi99&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 ![Darshbhi99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshbhi99&show_icons=true&theme=radical)
 
+## Languages and Tools
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
 ## 🛠 Skills
 - Python 
 - Data Analysis
