@@ -25,6 +25,7 @@ I'm a Full Stack Data Scientist...
 - Worked in the field of Healthcare sector as a CT Service Engineer for 3 years
 - Completed Udemy Course on Full Stack Data Science 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Darshbhi99&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 
 ## 🛠 Skills
 - Python 
