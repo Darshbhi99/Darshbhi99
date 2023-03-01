@@ -8,8 +8,8 @@
   <a href="www.linkedin.com/in/darshan-bhiwapurkar-048a86124">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Darshbhi99/Darshbhi99.git">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Portfolio Badge"/>
+  <a href="www.github.com/Darshbhi99">
+    <img src="https://komarev.com/ghpvc/?username=Darshbhi99&style=flat-square&color=blue" alt=""/>
   </a>
   
 ## 🚀 About Me
